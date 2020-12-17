@@ -1,6 +1,6 @@
 # README
 
-##Link app: https://nameless-wildwood-24224.herokuapp.com/
+-Link app: https://nameless-wildwood-24224.herokuapp.com/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
